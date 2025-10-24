@@ -5,7 +5,12 @@
 
 ## 🚀 About Me
 
-> *Surviving college through chai and sheer willpower while building scalable AI systems*
+*Surviving college through chai and sheer willpower while building scalable AI systems*
+## ⚡ Lightning Fast
+
+![MonkeyType WPM](https://img.shields.io/badge/MonkeyType-120_WPM_98%25-FFA500?style=for-the-badge&logo=keyboard&logoColor=white)
+
+*"My fingers are faster than my college's WiFi"*
 
 I'm passionate about creating solutions that solve real problems and make everyone's lives easier. When I'm not battling college assignments, you'll find me exploring the depths of computer science and building cool stuff just for fun.
 
