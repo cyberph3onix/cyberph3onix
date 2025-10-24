@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 *Surviving college through chai and sheer willpower while building scalable AI systems*
-I'm passionate about creating solutions that solve real problems and make everyone's lives easier. When I'm not battling college assignments, you'll find me exploring the depths of computer science and building cool stuff just for fun.
+-I'm passionate about creating solutions that solve real problems and make everyone's lives easier. When I'm not battling college assignments, you'll find me exploring the depths of computer science and building cool stuff just for fun.
 
 **Currently vibing with:**
 -  Building scalable AI systems and problem-solving softwares
