@@ -48,10 +48,10 @@ I'm passionate about creating solutions that solve real problems and make everyo
 
 ## 📫 Let's Connect!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://cyberph3onix.github.io/cyberpunk-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaraaj0505@gmail.com)
 
 ---
 
