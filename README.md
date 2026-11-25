@@ -34,8 +34,16 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 🔥 Currently Working On
+- Open source contributions to OpenPrinting (libcupsfilters, pdfio)
 - College projects that may or may not work on the first try
 - Something cool that I'll probably post here soon
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberph3onix&theme=github-compact&hide_border=true&point=ffffff&area=true" alt="Contribution graph" />
+</p>
+
 
 ## 📫 Let's Connect!
 
