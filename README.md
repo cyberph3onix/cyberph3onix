@@ -1,6 +1,12 @@
 <h1 align="center">Hey there, I'm Shreshth! 👋</h1>
 <h3 align="center">Building software, AI, and stuff that matters ☕</h3>
 
+<p align="center">
+  <a href="https://www.shreshtaraaj.xyz/"><img src="https://img.shields.io/badge/-%20-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://twitter.com/tutahuaanda"><img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/shreshta-raaj-gupta"><img src="https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -57,19 +63,12 @@
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-most-commit-language.svg" width="49%" alt="Most commit language" />
-  <img src="./profile-summary-card-output/github_dark/2-repos-per-language.svg" width="49%" alt="Repos per language" />
-  <img src="./profile-summary-card-output/github_dark/4-stats.svg" width="49%" alt="Stats" />
-  <img src="./profile-summary-card-output/github_dark/5-productive-time.svg" width="49%" alt="Productive time" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most commit language" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Stats" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive time" />
 </p>
 
-## 📫 Let's Connect!
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://www.shreshtaraaj.xyz/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](
-www.linkedin.com/in/shreshta-raaj-gupta)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tutahuaanda)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaraaj0505@gmail.com)
 
 ---
 
