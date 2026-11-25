@@ -63,13 +63,6 @@
   <img src="./profile-summary-card-output/github_dark/5-productive-time.svg" width="49%" alt="Productive time" />
 </p>
 
-## 🤝 Open Source Contributions
-
-<p align="center">
-  <a href="https://github.com/OpenPrinting/libcupsfilters"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenPrinting&repo=libcupsfilters&theme=github_dark&hide_border=true" alt="libcupsfilters" /></a>
-  <a href="https://github.com/michaelrsweet/pdfio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=michaelrsweet&repo=pdfio&theme=github_dark&hide_border=true" alt="pdfio" /></a>
-</p>
-
 ## 📫 Let's Connect!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://www.shreshtaraaj.xyz/)
