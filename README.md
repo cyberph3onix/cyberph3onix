@@ -17,6 +17,7 @@
 **Currently vibing with:**
 -  Building scalable AI systems and problem-solving softwares
 -  Exploring computer science fundamentals
+-  Open source (lowkey having fun)
 -  Open to new opportunities and collaborations
 
 ## 🛠️ Tech Stack
