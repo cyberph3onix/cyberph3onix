@@ -44,22 +44,16 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ## 🔥 Currently Working On
-- Contributing to OpenPrinting (libcupsfilters, pdfio) with an eye on GSoC 2027
+- Contributing to OpenPrinting (libcupsfilters, pdfio)
 - Building RAG pipelines with local LLMs (sentence-transformers, ChromaDB, Ollama)
 - Zero-knowledge proofs and blockchain experiments
 - College projects that may or may not work on the first try
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberph3onix&theme=github-compact&hide_border=true&point=ffffff&area=true" alt="Contribution graph" />
-</p>
 
 
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberph3onix&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberph3onix&theme=github-compact&hide_border=true&point=ffffff&area=true" alt="Contribution graph" />
 </p>
 
 <p align="center">
